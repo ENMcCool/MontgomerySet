@@ -1,3 +1,4 @@
 ClinicalReadings/
 CXR_png/
 ManualMask/
+.venv
